@@ -1,0 +1,8 @@
+[package]
+name = "schroedingers-cats"
+version = "0.1.0"
+authors = ["Florian Reisecker <florian.reisecker@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+azul = { git = 'https://github.com/maps4print/azul', branch = 'master' }
